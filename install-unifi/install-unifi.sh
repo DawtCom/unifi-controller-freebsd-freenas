@@ -7,7 +7,7 @@
 UNIFI_SOFTWARE_URL="https://dl.ui.com/unifi/6.0.23/UniFi.unix.zip"
 
 # The rc script associated with this branch or fork:
-RC_SCRIPT_URL="https://raw.githubusercontent.com/TechButton/unifi-controller-freebsd-freenas/master/rc.d/unifi.sh"
+RC_SCRIPT_URL="https://raw.githubusercontent.com/DawtCom/unifi-controller-freebsd-freenas/master/rc.d/unifi.sh"
 
 # If pkg-ng is not yet installed, bootstrap it:
 if ! /usr/sbin/pkg -N 2> /dev/null; then
