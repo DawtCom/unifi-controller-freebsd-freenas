@@ -15,8 +15,8 @@ The project now provides two working scripts: an rc script to start and stop the
 
 Upgrade
 -------
-Upgrade to current is working to 6.0.23 (possibly)
-This also uses mongodb36 pkg install
+ Upgrade to current is working to 6.0.23 (possibly)
+ This also uses mongodb36 pkg install
 
 Milestones
 ----------
