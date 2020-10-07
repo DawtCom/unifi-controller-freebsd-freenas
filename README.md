@@ -16,6 +16,7 @@ The project now provides two working scripts: an rc script to start and stop the
 Upgrade
 -------
 Upgrade to current is working to 6.0.23 (possibly)
+This also uses mongodb36 pkg install
 
 Milestones
 ----------
@@ -93,4 +94,4 @@ These sources of information immediately come to mind:
 - [UniFi product information page](http://www.ubnt.com/unifi#UnifiSoftware)
 - [UniFI download and documentation](http://www.ubnt.com/download#UniFi:AP)
 - [UniFi updates blog](http://community.ubnt.com/t5/UniFi-Updates-Blog/bg-p/Blog_UniFi)
-- [Unifi Stable build page] (https://community.ubnt.com/t5/UniFi/ct-p/UniFi)
+- [Unifi Stable build page] (https://community.ui.com/releases)
